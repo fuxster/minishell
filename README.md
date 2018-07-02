@@ -2,11 +2,6 @@
 
 ## About
 
-Minishell is the second project of the Unix branch at 42.
-It's a minimum viable version of a real shell.
-The main goal is to have a good understanding of process creation and
-synchronisation using the C programmming language.
-
 Through the Minishell project, I got to the core of the Unix system and explored 
 an important part of this system’s API: process creation and synchronisation.
 
